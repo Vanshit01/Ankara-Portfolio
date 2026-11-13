@@ -269,5 +269,5 @@ section{padding:45px 0}
 .testimonial-container{padding:0 15px}.testimonial-card{width:94%;padding:17px 12px;border-width:2px}.testimonial-text{font-size:14px}
 .arrow{width:27px;height:27px;font-size:11px}.arrow.previous{left:-5px}.arrow.next{right:-5px}
 .contact-left,.contact-right{padding:10px}.contact-form-box{padding:20px 12px;border-width:2px}
-.footer-logo img{display:block;text-align:center}
+.footer-logo img{width:120px;margin:0 auto 10px}
 }
